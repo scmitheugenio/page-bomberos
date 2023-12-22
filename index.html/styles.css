@@ -1,0 +1,76 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(250, 25, 9);
+    background-image: url('ruta/de/tu/imagen-de-fondo.jpg'); /* Reemplaza 'ruta/de/tu/imagen-de-fondo.jpg' con la ruta correcta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #09090929; /* Cambia el color de fondo aquí */
+}
+
+header {
+    position: relative;
+    background-color: #090909cb;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #0a0a0a;
+    color: #181fd977;
+    text-align: center;
+    padding: 0.5em 0;
+}
+
+nav a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f81808;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #0a0a0a;
+    color: #fb0804b7;
+    text-align: center;
+    padding: 1em 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(248, 248, 248);
+    background-image: url('ruta/de/tu/imagen-de-fondo.jpg');
+    background-size: cover; /* Escala la imagen para cubrir todo el fondo sin distorsionarla */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #16394830;
+}
+
+header {
+    position: relative;
+    background-color: #fc0202;
+    text-align: center;
+    padding: 1em 0;
+}
+p{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(244, 216, 7);
+}
+h1{
+    color: rgb(252, 252, 234);
+}
+
+/* Resto del archivo CSS sigue igual */
